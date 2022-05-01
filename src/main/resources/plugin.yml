@@ -1,0 +1,3 @@
+name: Quester
+version: '${version}'
+main: dev.u9g.quester.Quester
